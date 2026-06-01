@@ -7,7 +7,7 @@ PATH = "content"
 TIMEZONE = "Europe/London"
 DEFAULT_LANG = "en"
 
-THEME = "themes/smashing-magazine"
+THEME = "themes/pelican-themes/notmyidea-cms"
 
 # URL settings
 ARTICLE_URL = "blog/{slug}/"
