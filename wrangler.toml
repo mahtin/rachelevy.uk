@@ -1,0 +1,11 @@
+name = "rachellevy-org-uk"
+main = "worker.js"
+compatibility_date = "2024-05-01"
+
+[site]
+bucket = "./output"
+entry-point = "."
+
+[env.production]
+route = "rachellevy.org.uk/*"
+zone_id = "<YOUR_ZONE_ID>"
