@@ -1,10 +1,11 @@
 Title: Welcome
+URL: save_as: index.html
 Slug: index
 Status: published
 
 # Rachel Levy
 
-![Rachel Levy](images/rachel-levy-small.jpg)
+![Rachel Levy](/images/rachel-levy-small.jpg)
 
 Welcome to the personal website of **Rachel Levy**.
 
@@ -23,4 +24,3 @@ I later moved to London. married Phin in 1953 and raised two children.
 I now have two grandchildren and one great-grandchild.
 
 I was awarded the British Empire Medal (BEM) in 2019 for services to Holocaust Education.
-
