@@ -4,7 +4,7 @@ Status: published
 
 # Contact
 
-If you’d like to reach Rachel, you can use the following channels:
+If you’d like to reach me, you can use the following channels:
 
 - **Email:** `rachel@rachellevy.org.uk`
 

@@ -26,7 +26,7 @@ CATEGORY_FEED_ATOM = None
 DEFAULT_PAGINATION = 10
 
 # Static paths if needed
-STATIC_PATHS = ["images", "extra"]
+STATIC_PATHS = ["images", "extra", "pdfs", "downloads"]
 EXTRA_PATH_METADATA = {
     # "extra/CNAME": {"path": "CNAME"},
 }
