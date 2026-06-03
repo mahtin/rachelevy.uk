@@ -20,3 +20,7 @@ All seven completed portraits were first exhibited at the Queen’s Gallery, Buc
 
 My portrait was painted by British artist Stuart Pearson Wright.
 
+The Royal Collection Trust wrote:
+
+> The profoundly moving portraits, which will become part of the Royal Collection,
+> stand as a powerful testament to the extraordinary resilience and courage of those who survived.
