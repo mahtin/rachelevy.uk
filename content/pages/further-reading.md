@@ -1,6 +1,5 @@
 Title: Further Reading
-Slug: further-reading
-Status: published
+Status: hidden
 
 # Further Reading
 

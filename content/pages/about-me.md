@@ -1,13 +1,12 @@
-Title: Welcome
-URL: save_as: index.html
-Slug: index
-Status: published
+Title: Rachel Levy
+Slug: landing-page-about-hidden
+Status: hidden
 
-# Rachel Levy
+<style>
+  .small-image { width: 300px; float: left; margin-right: 30px; margin-bottom: 10px; }
+</style>
 
-![Rachel Levy](/images/rachel-levy-small.jpg)
-
-Welcome to the personal website of **Rachel Levy**.
+![Rachel Levy](/images/rachel-levy-small.jpg){: .small-image }
 
 My name **Rachel "Ruzena" Levy BEM** and I'm a Czechoslovak-born British Holocaust survivor, educator, and public speaker.
 I'm known for my testimony about surviving Auschwitz and Bergen-Belsen,

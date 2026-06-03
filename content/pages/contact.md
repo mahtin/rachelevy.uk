@@ -1,5 +1,4 @@
 Title: Contact
-Slug: contact
 Status: published
 
 # Contact
