@@ -13,7 +13,6 @@ Status: published
 </style>
 
 ![British Empire Medal (BEM)](/images/bem.jpg){: .small-image }
-
 I was awarded the British Empire Medal (BEM) in the The Queen's Birthday Honours List 2019 for my services to Holocaust education.
 
 I received my medal at an investiture ceremony held at the Tower of London in November 2019, where it was presented to me by the Lord-Lieutenant of Greater London, Sir Kenneth Olisa.

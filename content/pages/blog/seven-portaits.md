@@ -13,7 +13,6 @@ Status: published
 </style>
 
 ![Seven Portraits](/images/seven-portraits.jpg){: .small-image }
-
 In 2022, I was one of seven Holocaust survivors selected to have their portraits painted for a special royal commission initiated by Charles, Prince of Wales (whom later was crowned King Charles III).
 
 The project, titled **Seven Portraits: Surviving the Holocaust**, was conceived as a living memorial to the dwindling generation of Holocaust survivors and as a tribute to their contributions to Holocaust education.

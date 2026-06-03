@@ -74,7 +74,7 @@ SITE_DESCRIPTION = (
     "Rachel Levy - Holocaust survivor"
 )
 
-PROJECTS_TITLE = "My Book"
+PROJECTS_TITLE = "Other sites"
 PROJECTS = [
   {
     "name": "Memoir: I Still Dream In Yiddish",
@@ -87,7 +87,7 @@ PROJECTS = [
     "name": "45Aid - The Boys History",
     "url": "https://45aid.org/survivors/ruzena-slomovicova/",
     "description":
-      "My Subcarpathian Ruthenia roots",
+      "My Subcarpathian Ruthenia roots.",
   },
 ]
 
