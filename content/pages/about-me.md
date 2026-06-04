@@ -19,6 +19,6 @@ In 1946, I was transported to [Belfast Northern Island](/blog/millisle/) as part
 I later moved to London, married Phin in 1953, and raised two children.
 I now have two grandchildren and one great-grandchild.
 
-In 2019 I was [awarded](/blog/british-empire-medal-bem/) the British Empire Medal (BEM) for services to Holocaust Education.
+In 2019 I was [awarded](/blog/british-empire-medal/) the British Empire Medal (BEM) for services to Holocaust Education.
 
 In 2025 I published my memoir: [*I Still Dream In Yiddish*](/blog/memoir-i-still-dream-in-yiddish/).

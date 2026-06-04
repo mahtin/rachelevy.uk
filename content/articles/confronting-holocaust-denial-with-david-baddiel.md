@@ -1,4 +1,5 @@
 Title: Confronting Holocaust Denial with David Baddiel
+Subtitle: on BBC2
 Date: 2020-02-17
 Modified: 2020-02-17
 Tags: David Baddiel, Holocaust denial

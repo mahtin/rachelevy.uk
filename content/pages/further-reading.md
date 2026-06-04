@@ -1,4 +1,5 @@
 Title: Further Reading
+Subtitle: Book, etc
 Status: hidden
 
 Here are some starting points for exploring my work and interests:

@@ -1,4 +1,5 @@
-Title: British Empire Medal (BEM)
+Title: British Empire Medal
+Subtitle: for holocaust remembrance and education
 Date: 2019-11-15
 Modified: 2019-11-15
 Tags: award, medal

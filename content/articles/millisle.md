@@ -1,10 +1,11 @@
-Title: Millisle Primary School and the legacy of the Millisle Farm in County Down Northern Ireland
+Title: Millisle Farm, County Down, Northern Ireland
+Subtitle: the legacy remembered at Millisle Primary School
 Date: 2018-01-27
 Modified: 2018-01-27
 Tags: Millisle, County Down, Northern Island
 Category: blog
 Authors: Rachel Levy
-Summary: Millisle Primary School and the legacy of the Millisle Farm in County Down Northern Ireland
+Summary: Millisle Farm, County Down, Northern Ireland and the legacy remembered at Millisle Primary School
 Slug: millisle
 Status: published
 
@@ -27,8 +28,10 @@ Survivors later described the farm as a place of “freedom”.
 
 45 Aid Society has an excellent write-up on the [hostel](https://45aid.org/hostel/millisle/).
 
-In January 2018 I returned to Millisle in Northern Ireland for the first time in 70 plus years.
-A BBC News [piece](https://www.bbc.com/news/uk-northern-ireland-42840722) from BBC NI quoted me:
+In January 2018 my daughter Shelley and I traveled to Millisle in Northern Ireland for Holocaust Memorial Day.
+It was the first time in 70 plus years that I had been back in Northern Ireland.
+We visited [Millisle Primary School](https://www.millisleprimary.co.uk/about-us-2/holocaust-memorial) and the farm.
+A BBC News [piece](https://www.bbc.com/news/uk-northern-ireland-42840722) from BBC NI documented my return and wrote this about my visit to the school:
 
 >	**Memories of Millisle**
 >

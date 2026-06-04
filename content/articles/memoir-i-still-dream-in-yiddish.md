@@ -1,4 +1,5 @@
 Title: Memoir: I Still Dream In Yiddish
+Subtitle: a book
 Date: 2025-07-14
 Modified: 2025-07-14
 Tags: history, book, memoir, Yiddish
