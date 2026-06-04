@@ -1,7 +1,7 @@
 Title: My Imperial War Museum oral history (2006)
 Date: 2006-06-20
 Modified: 2006-06-20
-Tags: oral history, IWM, Imperial War Museum
+Tags: history, Imperial War Museum (IWM)
 Category: blog
 Authors: Rachel Levy
 Summary: My Imperial War Museum oral history (2006)

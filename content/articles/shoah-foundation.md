@@ -1,7 +1,7 @@
 Title: Shoah Visual History Foundation recording (1997)
 Date: 1997-11-26
 Modified: 1997-11-26
-Tags: award, medal
+Tags: history, Shoah Foundation
 Category: blog
 Authors: Rachel Levy
 Summary: Shoah Visual History Foundation recording (1997)

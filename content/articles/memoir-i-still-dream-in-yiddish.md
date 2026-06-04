@@ -1,7 +1,7 @@
 Title: Memoir: I Still Dream In Yiddish
 Date: 2025-07-14
 Modified: 2025-07-14
-Tags: book, memoir, Yiddish
+Tags: history, book, memoir, Yiddish
 Category: blog
 Authors: Rachel Levy
 Summary: Memoir: I Still Dream In Yiddish
