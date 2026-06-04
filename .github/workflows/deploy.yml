@@ -20,8 +20,10 @@ jobs:
 
       - name: Install Stork Search version 1.6.0
         run: |
-          wget -q -O stork https://files.stork-search.net/releases/v1.6.0/stork-ubuntu-20-04
+          wget -q -O stork https://files.stork-search.net/releases/v1.6.0/stork-ubuntu-22-04
           chmod +x stork
+          file stork 
+          uname -a
           sudo mv stork /usr/local/bin/stork
           stork --version
 
