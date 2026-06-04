@@ -1,7 +1,7 @@
 Title: Seven Portraits
 Date: 2022-01-24
 Modified: 2022-01-24
-Tags: blog, rachel
+Tags: portrait, King Charles III
 Category: blog
 Authors: Rachel Levy
 Summary: Portraits of Seven Holocaust survivors

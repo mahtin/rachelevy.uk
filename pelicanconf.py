@@ -8,6 +8,15 @@ SITE_DESCRIPTION = (
     'Rachel Levy - Holocaust survivor'
 )
 
+# removed ... really not needed
+#AUTHORS = {
+#    'Rachel Levy': {
+#        'url': 'http://rachellevy.uk',
+#        'blurb': 'Rachel Levy',
+#    },
+#}
+#
+
 SITEURL = ''
 
 PATH = "content"
