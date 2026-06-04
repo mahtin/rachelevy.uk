@@ -55,8 +55,16 @@ THEME = 'themes/elegant'
 
 SITEMAP = {
     'format': 'xml',
-    'priorities': {'articles': 0.5, 'indexes': 0.5, 'pages': 0.5},
-    'changefreqs': {'articles': 'monthly', 'indexes': 'daily', 'pages': 'monthly'},
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5,
+     },
+    'changefreqs': {
+        'articles': 'daily',
+        'indexes': 'daily',
+        'pages': 'daily',
+     },
     'exclude': [
         '^/noindex/',
         '/tag/',

@@ -60,3 +60,5 @@ Disallow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://rachellevy.org.uk/sitemap.xml
