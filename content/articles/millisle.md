@@ -5,6 +5,7 @@ Tags: Millisle, County Down, Northern Island
 Category: blog
 Authors: Rachel Levy
 Summary: Millisle Primary School and the legacy of the Millisle Farm in County Down Northern Ireland
+Slug: millisle
 Status: published
 
 <style>

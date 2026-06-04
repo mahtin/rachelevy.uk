@@ -5,6 +5,7 @@ Tags: Bhutz, Carpathian Mountains, Carpathian Ruthenia, Czechoslovakia, Ukraine
 Category: blog
 Authors: Rachel Levy
 Summary: Return to Bhutz (2013)
+Slug: bhutz
 Status: published
 
 <style>

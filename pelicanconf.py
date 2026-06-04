@@ -106,13 +106,13 @@ PROJECTS = [
       'a national initiative to preserve and share the life stories of Holocaust survivors living in the United Kingdom.',
   },
   {
-    'name': '45Aid - The Boys History',
+    'name': '45 Aid Society - The Boys History',
     'url': 'https://45aid.org/survivors/ruzena-slomovicova/',
     'description':
       'My Subcarpathian Ruthenia roots.',
   },
   {
-    'name': '45Aid - The Memory Quilts Project',
+    'name': '45 Aid Society - The Memory Quilts',
     'url': 'https://45aid.org/quilt-story/rachel-levy/',
     'description':
       'The Memory Quilts are a celebration of the lives of the Boys. '
