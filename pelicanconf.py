@@ -154,6 +154,7 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['images', 'static']
 EXTRA_PATH_METADATA = {
     # "extra/CNAME": {"path": "CNAME"},
+    'static/robots.txt': {'path': 'robots.txt'},
 }
 
 CUSTOM_CSS = 'static/custom.css'
