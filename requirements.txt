@@ -2,5 +2,5 @@ pelican==4.9.1
 markdown
 typogrify
 pelican-sitemap==1.2.2
-pelican-share-post=1.2.1
+pelican-share-post==1.2.1
 beautifulsoup4
