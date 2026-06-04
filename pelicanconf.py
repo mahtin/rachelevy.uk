@@ -41,6 +41,7 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = [
     'sitemap',
     'share_post',
+    'search',
 #    "extract_toc",
 #    "liquid_tags.img",
 #    "liquid_tags.include_code",
@@ -167,3 +168,11 @@ EXTRA_PATH_METADATA = {
 
 CUSTOM_CSS = 'static/custom.css'
 
+# stork search
+STORK_INPUT_OPTIONS = {
+    'base_directory': PATH,
+    'url_prefix': SITEURL,
+}
+STORK_OUTPUT_OPTIONS = {
+    'debug': False,
+}

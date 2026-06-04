@@ -1,6 +1,7 @@
-pelican==4.9.1
+pelican==4.12.0
 markdown
 typogrify
+beautifulsoup4
 pelican-sitemap==1.2.2
 pelican-share-post==1.2.1
-beautifulsoup4
+pelican-search==1.1.1
