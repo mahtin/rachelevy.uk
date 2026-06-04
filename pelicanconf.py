@@ -137,7 +137,7 @@ SOCIAL_PROFILE_LABEL = 'Stay in Touch'
 SOCIAL = [
     ('Email', 'rachel@rachellevy.uk', 'My Email Address'),
     ('Facebook', 'https://facebook.com/rachel.levy.754'),
-    ('YouTube', 'https://www.youtube.com/@rachel.levy.754', 'YouTube Channel')
+    ('YouTube', 'https://www.youtube.com/@ruzenarachel', 'YouTube Channel')
 ]
 
 SHARE_POST_INTRO = 'Share me with your friends on'
