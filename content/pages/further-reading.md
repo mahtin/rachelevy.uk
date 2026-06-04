@@ -1,8 +1,6 @@
 Title: Further Reading
 Status: hidden
 
-# Further Reading
-
 Here are some starting points for exploring my work and interests:
 
 - **My Book:** [I Still Dream In Yiddish](https://myvoice.org.uk/book/i-still-dream-in-yiddish/)

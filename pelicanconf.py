@@ -1,7 +1,14 @@
-AUTHOR = "Rachel Levy"
-SITENAME = "Rachel Levy"
-SITESUBTITLE = "My personal website telling my personal story"
-SITEURL = ""
+# rachellevy.uk and associated domains
+
+AUTHOR = 'Rachel Levy'
+SITENAME = 'Rachel Levy'
+SITESUBTITLE = 'My personal website telling my personal story'
+LANDING_PAGE_TITLE = 'Rachel Levy - Holocaust survivor'
+SITE_DESCRIPTION = (
+    'Rachel Levy - Holocaust survivor'
+)
+
+SITEURL = ''
 
 PATH = "content"
 
@@ -21,8 +28,10 @@ MARKDOWN = {
     }
 }
 
-PLUGIN_PATHS = ["plugins"]
+PLUGIN_PATHS = ['plugins']
 PLUGINS = [
+    'sitemap',
+    'share_post',
 #    "extract_toc",
 #    "liquid_tags.img",
 #    "liquid_tags.include_code",
@@ -30,39 +39,47 @@ PLUGINS = [
 #    "related_posts",
 #    "render_math",
 #    "series",
-#    "share_post",
 #    "tipue_search",
 ]
 
-THEME = "themes/elegant"
+THEME = 'themes/elegant'
 
 SITEMAP = {
-    "format": "xml",
-    "priorities": {"articles": 0.5, "indexes": 0.5, "pages": 0.5},
-    "changefreqs": {"articles": "monthly", "indexes": "daily", "pages": "monthly"},
+    'format': 'xml',
+    'priorities': {'articles': 0.5, 'indexes': 0.5, 'pages': 0.5},
+    'changefreqs': {'articles': 'monthly', 'indexes': 'daily', 'pages': 'monthly'},
+    'exclude': [
+        '^/noindex/',
+        '/tag/',
+        '\\.json$',
+    ],
 }
 
 # URL settings
-ARTICLE_URL = "blog/{slug}/"
-ARTICLE_SAVE_AS = "blog/{slug}/index.html"
+ARTICLE_URL = 'blog/{slug}/'
+ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 
-PAGE_URL = "{slug}.html"
-PAGE_SAVE_AS = "{slug}.html"
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
 
 # Make the homepage a page called 'index'
 INDEX_SAVE_AS = "index.html"
 
-RECENT_ARTICLES_COUNT = "10"
-LANDING_PAGE_TITLE = "Rachel Levy - a Holocaust survivor"
+DISPLAY_PAGES_ON_MENU = True
+
+RECENT_ARTICLES_COUNT = 10
 
 DEFAULT_CATEGORY = "Miscellaneous"
 USE_FOLDER_AS_CATEGORY = False
-TAGS_URL = "tags"
-CATEGORIES_URL = "categories"
-ARCHIVES_URL = "archives"
-SEARCH_URL = "search"
 
-DIRECT_TEMPLATES = ["index", "tags", "categories", "archives", "search", "404"]
+# These could have .html at the end ... but with Cloudflare workers, these work ... 
+CATEGORIES_URL = 'categories.html'
+TAGS_URL = 'tags.html'
+ARCHIVES_URL = 'archives.html'
+
+SEARCH_URL = 'search.html'
+
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives', 'search', '404']
 TAG_SAVE_AS = ""
 AUTHOR_SAVE_AS = ""
 CATEGORY_SAVE_AS = ""
@@ -70,29 +87,47 @@ USE_SHORTCUT_ICONS = True
 
 HOSTED_ON = {"name": "Cloudflare", "url": "https://cloudflare.com/"}
 
-SITE_DESCRIPTION = (
-    "Rachel Levy - Holocaust survivor"
-)
-
-PROJECTS_TITLE = "Other sites"
+PROJECTS_TITLE = 'Other sites'
 PROJECTS = [
   {
-    "name": "Memoir: I Still Dream In Yiddish",
-    "url": "https://myvoice.org.uk/book/i-still-dream-in-yiddish/",
-    "description":
-      "In 2025, I published my memoir, I Still Dream In Yiddish, as part of the UK-based My Voice project, "
-      "a national initiative to preserve and share the life stories of Holocaust survivors living in the United Kingdom.",
+    'name': 'Memoir: I Still Dream In Yiddish',
+    'url': 'https://myvoice.org.uk/book/i-still-dream-in-yiddish/',
+    'description':
+      'In 2025, I published my memoir, I Still Dream In Yiddish, as part of the UK-based My Voice project, '
+      'a national initiative to preserve and share the life stories of Holocaust survivors living in the United Kingdom.',
   },
   {
-    "name": "45Aid - The Boys History",
-    "url": "https://45aid.org/survivors/ruzena-slomovicova/",
-    "description":
-      "My Subcarpathian Ruthenia roots.",
+    'name': '45Aid - The Boys History',
+    'url': 'https://45aid.org/survivors/ruzena-slomovicova/',
+    'description':
+      'My Subcarpathian Ruthenia roots.',
+  },
+  {
+    'name': '45Aid - The Memory Quilts Project',
+    'url': 'https://45aid.org/quilt-story/rachel-levy/',
+    'description':
+      'The Memory Quilts are a celebration of the lives of the Boys. '
+      'My granddaughter made this quilt square and wrote: '
+      '"'
+      'This quilt square represents what I pictured in my own mind as my Grandmother described her memories of Behutz to me. '
+      'A family owned mill alongside a river, nestled in a green valley – a beloved home to my Grandmother.'
+      '"',
   },
 ]
 
-TWITTER_USERNAME = "rachellevy"
-SHARE_LINKS = [("twitter", "Twitter"), ("facebook", "Facebook"), ("email", "Email")]
+SOCIAL_PROFILE_LABEL = 'Stay in Touch'
+SOCIAL = [
+    ('Email', 'rachel@rachellevy.uk', 'My Email Address'),
+    ('Facebook', 'https://facebook.com/rachel.levy.754'),
+    ('YouTube', 'https://www.youtube.com/@rachel.levy.754', 'YouTube Channel')
+]
+
+SHARE_POST_INTRO = 'Share me with your friends on'
+SHARE_LINKS = [
+    ('email', 'Email'),
+    ('X', 'X'),
+    ('facebook', 'Facebook'),
+]
 
 # TEMPLATE_PAGES = {'index.html': 'index.html'}
 
@@ -107,10 +142,10 @@ TYPOGRIFY = True
 DEFAULT_PAGINATION = 10
 
 # Static paths if needed
-STATIC_PATHS = ["images", "static"]
+STATIC_PATHS = ['images', 'static']
 EXTRA_PATH_METADATA = {
     # "extra/CNAME": {"path": "CNAME"},
 }
 
-CUSTOM_CSS = "static/custom.css"
+CUSTOM_CSS = 'static/custom.css'
 

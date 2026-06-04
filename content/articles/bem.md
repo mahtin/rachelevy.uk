@@ -1,9 +1,8 @@
 Title: British Empire Medal (BEM)
-Tags: blog, rachel
 Date: 2019-11-15
 Modified: 2019-11-15
+Tags: blog, rachel
 Category: blog
-Slug: bem
 Authors: Rachel Levy
 Summary: I was awarded the British Empire Medal (BEM)
 Status: published

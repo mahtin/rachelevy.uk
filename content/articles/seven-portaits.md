@@ -1,9 +1,8 @@
 Title: Seven Portraits
-Tags: blog, rachel
 Date: 2022-01-24
 Modified: 2022-01-24
+Tags: blog, rachel
 Category: blog
-Slug: seven-portraits
 Authors: Rachel Levy
 Summary: Portraits of Seven Holocaust survivors
 Status: published
