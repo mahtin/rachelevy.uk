@@ -5,3 +5,5 @@ beautifulsoup4
 pelican-sitemap==1.2.2
 pelican-share-post==1.2.1
 pelican-search==1.1.1
+pelican-related-posts==1.0.0
+pelican-neighbors==1.2.0

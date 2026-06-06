@@ -42,14 +42,12 @@ PLUGINS = [
     'sitemap',
     'share_post',
     'search',
+    'related_posts',
+    'neighbors',
 #    "extract_toc",
 #    "liquid_tags.img",
 #    "liquid_tags.include_code",
-#    "neighbors",
-#    "related_posts",
-#    "render_math",
 #    "series",
-#    "tipue_search",
 ]
 
 THEME = 'themes/elegant'
