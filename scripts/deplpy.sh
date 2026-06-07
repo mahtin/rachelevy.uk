@@ -5,5 +5,5 @@ set -euo pipefail
 ./scripts/build.sh
 
 # Deploy via Wrangler (production env)
-wrangler deploy --env production
+wrangler deploy --env production --minify --outdir wrangler-build
 

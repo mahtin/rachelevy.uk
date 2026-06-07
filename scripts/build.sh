@@ -6,4 +6,4 @@ if [ -d ".venv" ]; then
   source .venv/bin/activate
 fi
 
-pelican content -o output -s pelicanconf.py
+pelican content -o output -s pelicanconf.py -e 'SITEURL="http://localhost:8000"'
