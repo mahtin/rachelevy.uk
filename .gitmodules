@@ -1,4 +1,4 @@
-[submodule "themes/elegant"]
-	path = themes/elegant
+[submodule "themes/old-elegant"]
+	path = themes/old-elegant
 	url = https://github.com/Pelican-Elegant/elegant.git
 
