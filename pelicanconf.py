@@ -161,7 +161,20 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['images', 'static']
 EXTRA_PATH_METADATA = {
     # "extra/CNAME": {"path": "CNAME"},
-    'static/robots.txt': {'path': 'robots.txt'},
+    'static/robots.txt':                       {'path': 'robots.txt'},
+    'static/favicon.ico':                      {'path': 'favicon.ico'},
+    'static/favicon.2.ico':                    {'path': 'theme/images/favicon.ico'},
+    'static/apple-touch-icon.png':             {'path': 'apple-touch-icon.png'},
+    'static/apple-touch-icon.2.png':           {'path': 'theme/images/apple-touch-icon.png'},
+    'static/apple-touch-icon-precomposed.png': {'path': 'apple-touch-icon-precomposed.png'},
+    'static/apple-touch-icon-57x57.png':       {'path': 'theme/images/apple-touch-icon-57x57.png'},
+    'static/apple-touch-icon-72x72.png':       {'path': 'theme/images/apple-touch-icon-72x72.png'},
+    'static/apple-touch-icon-76x76.png':       {'path': 'theme/images/apple-touch-icon-76x76.png'},
+    'static/apple-touch-icon-114x114.png':     {'path': 'theme/images/apple-touch-icon-114x114.png'},
+    'static/apple-touch-icon-120x120.png':     {'path': 'theme/images/apple-touch-icon-120x120.png'},
+    'static/apple-touch-icon-144x144.png':     {'path': 'theme/images/apple-touch-icon-144x144.png'},
+    'static/apple-touch-icon-152x152.png':     {'path': 'theme/images/apple-touch-icon-152x152.png'},
+    'static/apple-touch-icon-180x180.png':     {'path': 'theme/images/apple-touch-icon-180x180.png'},
 }
 
 CUSTOM_CSS = 'static/custom.css'
