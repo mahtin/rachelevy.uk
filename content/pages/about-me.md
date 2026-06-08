@@ -13,9 +13,10 @@ and my decades of work promoting tolerance and Holocaust remembrance.
 
 I was born in the small mountain village of [Bhutz](/blog/bhutz/), in the Carpathian Ruthenia region of Czechoslovakia (now part of Ukraine).
 In 1944, at age 14, my family and I were forced into a ghetto and subsequently deported in cattle trucks to Auschwitz-Birkenau.
-I was then forced on a death march to Bergen-Belsen, where I was liberated by British forces in April 1945.
+I was later forced on the death march to Bergen-Belsen.
+In April 1945, I was liberated by British forces.
 I made it to Prague Czechoslovakia in late 1945 and reunited with my brother Chaskel, who had also survived the concentration camps.
-In 1946, I was transported to [Belfast Northern Island](/blog/millisle/) as part of the group of orphaned child survivors later known as "The Boys".
+In 1946, I was transported to [Belfast Northern Ireland](/blog/millisle/) as part of the group of orphaned child survivors later known as "The Boys".
 I later moved to London, married Phin in 1953, and raised two children.
 I now have two grandchildren and one great-grandchild.
 

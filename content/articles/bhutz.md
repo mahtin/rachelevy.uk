@@ -24,7 +24,7 @@ I travelled with a multigenerational group of seventeen relatives representing t
 and cousins from the directly related Levy, Slomovic, and Steinmetz families.
 
 Upon reaching the area—now identified as Velykyi Bychkiv/Byouts and Malyi Bychkiv/Byouts, I met local residents who remembered the pre‑war Jewish
-community and the my family’s flour mill.
+community and my family’s flour mill.
 One 98‑year‑old Romanian speaking villager recalled my grandfather, Dudye Slomovic, and described how local families had attempted to hide
 Jewish residents in the surrounding forests during the first Nazi roundup.
 

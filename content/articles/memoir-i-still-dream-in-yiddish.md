@@ -21,7 +21,7 @@ It also explores my reflections on memory, identity, and the enduring emotional 
 The title refers to the language of my childhood and the dreams that still connect me to my lost family and community.
 
 The memoir was developed through a series of recorded interviews and writing workshops facilitated by the My Voice team and editorial guidance from project volunteers.
-I worked closely with editors to shape her narrative, ensuring that my voice and memories remained central to the final publication.
+I worked closely with the editors to shape my narrative, ensuring that my voice and memories remained central to the final publication.
 
 The book was launched at a public event in Hampstead, London, on 14 July 2025, alongside memoirs by fellow survivors Kurt Marx and Jacques Weisser.
 The launch was attended by my family members, educators, and representatives from Yad Vashem UK and The Fed, who praised the project as *a victory over the silence*.

@@ -17,7 +17,7 @@ Status: published
 In 1997 I sat for a two and a half hour videotaping for the Shoah Visual History Foundation.
 
 The video recording is split into 48 seperate segments and covers all of my life up to the recording date.
-This includs my upbringing in the Carpathian Mountains, time in the concentration camps, liberation,
+This includes my upbringing in the Carpathian Mountains, time in the concentration camps, liberation,
 reconnecting with my brother Chaskel that amazingly also survived the Holocaust, recovery in Northern Ireland,
 moving to England, getting married, family life, and all my relatives that also survived.
 
