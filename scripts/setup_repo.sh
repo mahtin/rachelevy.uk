@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="git@github.com:mahtin/rachellevy.org.uk.git"
+REPO_URL="git@github.com:mahtin/rachellevy.uk.git"
 
 # Initial git setup
 git init

@@ -4,8 +4,8 @@ compatibility_date = "2024-05-01"
 
 assets = { directory = "./output" }
 
-route = "rachellevy.org.uk/*"
-zone_id = "c31b4fc12a1a9f3ea20c02e0ddbf08da"
+route = "rachellevy.uk/*"
+zone_id = "34b5cacfcbf084ad1d81a286fef18968"
 
 not_found_handling = "404-page"
 # html_handling = "auto-trailing-slash"

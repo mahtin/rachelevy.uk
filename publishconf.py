@@ -1,6 +1,6 @@
 from pelicanconf import *
 
-SITEURL = "https://rachellevy.org.uk"
+SITEURL = "https://rachellevy.uk"
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
