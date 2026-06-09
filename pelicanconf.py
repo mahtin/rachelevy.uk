@@ -183,6 +183,7 @@ CUSTOM_CSS = 'static/custom.css'
 STORK_INPUT_OPTIONS = {
     'base_directory': PATH,
     'url_prefix': SITEURL,
+    'exclude_html_selector': 'footer, .sidebar, .no-search',
 }
 STORK_OUTPUT_OPTIONS = {
     'debug': False,
