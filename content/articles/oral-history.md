@@ -9,7 +9,7 @@ Slug: oral-history
 Status: published
 
 <style>
-  .small-image { width: 300px; float: left; margin-right: 30px; margin-bottom: 10px; }
+  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
 </style>
 
 ![Imperial War Museum](/images/rachel-levy-millislefarm.jpg){: .small-image }

@@ -9,7 +9,7 @@ Summary: Memoir: I Still Dream In Yiddish
 Status: published
 
 <style>
-  .small-image { width: 300px; float: left; margin-right: 30px; margin-bottom: 10px; }
+  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
 </style>
 
 ![Memoir: I Still Dream In Yiddish](/images/memoir-i-still-dream-in-yiddish.jpg){: .small-image }

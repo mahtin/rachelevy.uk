@@ -10,7 +10,7 @@ Slug: shoah-foundation
 Status: published
 
 <style>
-  .small-image { width: 300px; float: left; margin-right: 30px; margin-bottom: 10px; }
+  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
 </style>
 
 ![Shoah Foundation](/images/shoah-foundation.jpg){: .small-image }

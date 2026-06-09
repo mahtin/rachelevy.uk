@@ -9,7 +9,7 @@ Summary: I was awarded the British Empire Medal (BEM)
 Status: published
 
 <style>
-  .small-image { width: 300px; float: left; margin-right: 30px; margin-bottom: 10px; }
+  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
 </style>
 
 ![British Empire Medal (BEM)](/images/bem.jpg){: .small-image }

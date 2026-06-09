@@ -9,7 +9,7 @@ Summary: Confronting Holocaust Denial with David Baddiel
 Status: published
 
 <style>
-  .small-image { width: 300px; float: left; margin-right: 30px; margin-bottom: 10px; }
+  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
 </style>
 
 ![Confronting Holocaust Denial with David Baddiel](/images/confronting-holocaust-denial-with-david-baddiel.jpg){: .small-image }
