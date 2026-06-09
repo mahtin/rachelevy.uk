@@ -16,8 +16,9 @@ In 1944, at age 14, my family and I were forced into a ghetto and subsequently d
 I was later forced on the death march to Bergen-Belsen.
 In April 1945, I was liberated by British forces.
 I made it to Prague Czechoslovakia in late 1945 and reunited with my brother Chaskel, who had also survived the concentration camps.
-In 1946, I was transported to [Belfast Northern Ireland](/blog/millisle/) as part of the group of orphaned child survivors later known as "The Boys".
-I later moved to London, married Phin in 1953, and raised two children.
+In 1946, I was transported from Prague to [Belfast](/blog/millisle/), Northern Ireland by the Central British Fund
+as part of the group of orphaned child survivors later known as *The Boys*.
+Within a year I moved to London, married Phin in 1953, and raised two children.
 I now have two grandchildren and one great-grandchild.
 
 In 2019 I was [awarded](/blog/british-empire-medal/) the British Empire Medal (BEM) for services to Holocaust Education.
