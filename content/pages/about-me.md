@@ -2,11 +2,7 @@ Title: My name is Rachel Levy
 Slug: landing-page-about-hidden
 Status: hidden
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Rachel Levy](/images/rachel-levy-small.jpg){: .small-image }
+![Rachel Levy](/images/rachel-levy-small.jpg){: .left-small }
 My name is **Rachel "Ruzena" Levy BEM** and I'm a Czechoslovak-born British Holocaust survivor, educator, and public speaker.
 I'm known for my testimony about surviving Auschwitz and Bergen-Belsen, my postwar resettlement in Northern Ireland and London,
 and my decades of work promoting tolerance and Holocaust remembrance.

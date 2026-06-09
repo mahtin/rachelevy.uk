@@ -8,11 +8,7 @@ Summary: My Imperial War Museum oral history (2006)
 Slug: oral-history
 Status: published
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Imperial War Museum](/images/rachel-levy-millislefarm.jpg){: .small-image }
+![Imperial War Museum](/images/rachel-levy-millislefarm.jpg){: .left-small }
 In 2006 I recorded 120 minuites of testimony for the Imperial War Museum in London, England.
 It covers my upbringing, my deportation to Auschwitz, separation from my family, the death-march to Bergen-Belsen, arrival of British troops, liberation, reunion with my brother Chaskel, airlifting to Belfast Northen Ireland, recovery period, learning English, meeting my husband Phin, settling into new life, and reactions to survival.
 

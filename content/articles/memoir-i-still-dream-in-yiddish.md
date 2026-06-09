@@ -8,11 +8,7 @@ Authors: Rachel Levy
 Summary: Memoir: I Still Dream In Yiddish
 Status: published
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Memoir: I Still Dream In Yiddish](/images/memoir-i-still-dream-in-yiddish.jpg){: .small-image }
+![Memoir: I Still Dream In Yiddish](/images/memoir-i-still-dream-in-yiddish.jpg){: .left-small }
 In 2025, I published my memoir, **I Still Dream In Yiddish**, as part of the UK-based **My Voice** project,
 a national initiative to preserve and share the life stories of Holocaust survivors living in the United Kingdom.
 

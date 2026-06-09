@@ -9,11 +9,7 @@ Summary: Return to Bhutz (2013)
 Slug: bhutz
 Status: published
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Bhutz](/images/bhutz.jpg){: .small-image }
+![Bhutz](/images/bhutz.jpg){: .left-small }
 In May 2013, at the age of 83, I returned for the first time to my birthplace of **Bhutz**, a small Jewish village in former Czechoslovakia's
 Carpathian Mountains from which I had been deported by the Nazis in 1944 at age fourteen.
 
@@ -25,6 +21,8 @@ and cousins from the directly related Levy, Slomovic, and Steinmetz families.
 
 Upon reaching the area—now identified as Velykyi Bychkiv/Byouts and Malyi Bychkiv/Byouts, I met local residents who remembered the pre‑war Jewish
 community and my family’s flour mill.
+
+![Bhutz](/images/bhutz-local-villager.jpg){: .right-small }
 One 98‑year‑old Romanian speaking villager recalled my grandfather, Dudye Slomovic, and described how local families had attempted to hide
 Jewish residents in the surrounding forests during the first Nazi roundup.
 

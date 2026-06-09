@@ -9,11 +9,7 @@ Summary: Video recording (1997) by the Shoah Visual History Foundation
 Slug: shoah-foundation
 Status: published
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Shoah Foundation](/images/shoah-foundation.jpg){: .small-image }
+![Shoah Foundation](/images/shoah-foundation.jpg){: .left-small }
 In 1997 I sat for a two and a half hour videotaping for the Shoah Visual History Foundation.
 
 The video recording is split into 48 seperate segments and covers all of my life up to the recording date.

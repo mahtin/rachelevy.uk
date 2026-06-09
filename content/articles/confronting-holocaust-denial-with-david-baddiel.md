@@ -8,11 +8,7 @@ Authors: Rachel Levy
 Summary: Confronting Holocaust Denial with David Baddiel
 Status: published
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Confronting Holocaust Denial with David Baddiel](/images/confronting-holocaust-denial-with-david-baddiel.jpg){: .small-image }
+![Confronting Holocaust Denial with David Baddiel](/images/confronting-holocaust-denial-with-david-baddiel.jpg){: .left-small }
 In early 2020, I appeared in the BBC documentary *Confronting Holocaust Denial with David Baddiel*.
 In the programme, comedian and writer David Baddiel interviewed me as part of his examination of the persistence of Holocaust denial and the motivations behind it.
 

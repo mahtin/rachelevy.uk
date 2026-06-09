@@ -8,11 +8,7 @@ Authors: Rachel Levy
 Summary: Portraits of Seven Holocaust survivors
 Status: published
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Seven Portraits](/images/seven-portraits.jpg){: .small-image }
+![Seven Portraits](/images/seven-portraits.jpg){: .left-small }
 In 2022, I was one of seven Holocaust survivors selected to have their portraits painted for a special royal commission initiated by Charles, Prince of Wales (whom later was crowned King Charles III).
 
 The project, titled **Seven Portraits: Surviving the Holocaust**, was conceived as a living memorial to the dwindling generation of Holocaust survivors and as a tribute to their contributions to Holocaust education.

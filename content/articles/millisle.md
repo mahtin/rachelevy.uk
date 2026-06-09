@@ -9,11 +9,7 @@ Summary: Millisle Farm, County Down, Northern Ireland and the legacy remembered 
 Slug: millisle
 Status: published
 
-<style>
-  .small-image { width: 15vw; float: left; margin-right: 30px; margin-bottom: 10px; }
-</style>
-
-![Millisle](/images/millisle.jpg){: .small-image }
+![Millisle](/images/millisle.jpg){: .left-small }
 The former [Jewish Refugee Resettlement Farm](https://wartimeni.com/location/northern-ireland/co-down/millisle/jewish-resettlement-farm/) at Millisle, County Down -
 known simply as "The Farm" - played a central role in the lives of hundreds of Jewish children who arrived in Northern Ireland between 1939 and 1948.
 Established on a run-down 70-acre plot near the village, the farm was originally a dilapidated property known as Ballyrolly House.
