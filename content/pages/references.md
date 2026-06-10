@@ -6,26 +6,38 @@ Status: published
 -->
 
 <style>
-ol {
-  border-bottom: 1px dotted var(--mutedTextColor);
-  overflow: auto;
-  padding: 0.3rem 0.2rem;
-  X-list-style: none;
-  X-margin: 0;
-  X-overflow: hidden;
-}
+ol{border-bottom:1px dotted var(--mutedTextColor);overflow:auto;font-family:var(--sansFontFamily);font-size:.963rem;}
 ol > li {
-  float: left;
   line-height: 28px;
-  margin: 0;
-}
-ol > li > a {
-  X-background: #eee;
-  X-border-radius: var(--borderRadius);
-  color: #222;
-  margin: 2px;
-  padding: 3px 6px;
-  text-decoration: none;
+  font-size: 85%;
+  a {
+  color: #3875d7;
+  display: inline-block;
+  position: relative;
+  &:after {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: silver;
+    color: #3875d7;
+    content: "";
+    opacity: 1;
+    transition: opacity 0.3s, transform 0.3s;
+    transform: translateY(0px);
+  }
+  &:hover {
+    color: royalblue;
+    text-decoration: none;
+    &:after {
+      opacity: 0;
+      transform: translateY(5px);
+    }
+  }
+  &:focus {
+    text-decoration: none;
+  }
 }
 </style>
 
