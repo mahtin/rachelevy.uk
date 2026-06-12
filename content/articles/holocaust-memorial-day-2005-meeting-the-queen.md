@@ -21,7 +21,7 @@ January 27 is the UK's Holocaust Memorial Day and in 2005 it marked the 60th Ann
 This video was recorded in the USA from the former MSNBC news channel. This was originally an ITV news piece from the UK.
 It covers all the activies going on that day, both in Kraków Poland and London UK.
 
-<iframe width="640" height="438" src="https://www.youtube.com/embed/Qhq_CiHeaOA" frameborder="0" fs="0"></iframe>
+<iframe width="100%" height="438" src="https://www.youtube.com/embed/Qhq_CiHeaOA" frameborder="0" fs="0"></iframe>
 
 Back in London, the Catford and Bromley Synagogue newsletter (written by Joan Goldberg) soon afwards wrote:
 
@@ -46,4 +46,6 @@ Back in London, the Catford and Bromley Synagogue newsletter (written by Joan Go
 >	"*Well,*" says Rachel "*not completely sane. After all, we are only human*".
 >	I am sure all our community will join me in wishing Rachel, all her family, and all her fellow Survivors, "*col hacavod*" (well done)
 > 	on her meeting the Queen, but especially on "staying sane" and maybe it was the Queen who was honoured.
+
+![Catford and Bromley Synagogue newsletter 2005](/images/catford-and-bromley-synagogue-2005.png)
 
