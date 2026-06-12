@@ -57,8 +57,6 @@ ol > li {
    <small class="subtitle">History Ireland</small>
 1. ["The Jewish Refugee Resettlement Farm, Millisle, Co Down"](https://wartimeni.com/location/northern-ireland/co-down/millisle/jewish-resettlement-farm/)
    <small class="subtitle">WartimeNI</small>
-1. "Family account of the 2013 return to Bhutz"
-   <small class="subtitle">2014</small>
 
 ##### Newspapers and Press Releases
 
