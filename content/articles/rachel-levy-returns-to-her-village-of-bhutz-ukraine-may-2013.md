@@ -10,6 +10,7 @@ Status: published
 
 *Written by Shelley Levy May 2013 -*
 
+![Return to Bhutz (2013)](/images/return-to-bhutz-family-group.jpg){: .left-small }
 It began in March 2004 when I spent the evening at home in the company of my good friend, Rabbi Mark Daniels.
 We talked about my mother, Rachel Levy, born Ruzena Slomovic, and how during the spring of 1944 at the age of 14 she,
 along with her mother, her elder brother Chaskel and three younger siblings, were forced by the Nazis to leave their
@@ -72,7 +73,7 @@ who is living in the USA, decided to join the trip. This was truly a great delig
 especially my mother, having her children, grandchildren, cousins and now her nieces by her side. In
 total 17 People, three Generations from three Continents.
 
-![Return to Bhutz (2013)](/images/return-to-bhutz-2.jpg){: .right-small }
+![Return to Bhutz (2013)](/images/return-to-bhutz-leaving-budapest.jpg){: .right-small }
 Emails flew across the planet and finally, after many months of discussing logistics, the family was to
 meet up and stay at the Kempinski Hotel in Budapest and then early the next morning take a contracted
 41-seater coach with two drivers and a Jewish Ukrainian guide to the town of Tychiv, Ukraine.
@@ -81,7 +82,7 @@ We had been given lots of advice and warned constantly that the part of Ukraine 
 be akin to the “wild west”. The roads would be impassable, the toilets would be lacking toilet paper, the
 food would be inedible, nobody would understand us and we might even be robbed! It was not all true!
 
-![Return to Bhutz (2013)](/images/return-to-bhutz-3.jpg){: .left-small }
+![Return to Bhutz (2013)](/images/return-to-bhutz-storytelling.jpg){: .left-small }
 On the morning we departed the Hungarian/Ukrainian border was suffering from computer problems
 and delays were reported to be worse than ever - it could take six hours to cross. Our guide, Bela Huber,
 knew this in advance so he instructed our drivers to take a 50km detour through Slovakia and enter
@@ -184,7 +185,7 @@ possible including *Bahutz* and *Berhuts*. We clambered out of the coach and too
 believing what we were seeing. Could it really be that we were just 2km away from actually being in my
 mother’s village?
 
-![Return to Bhutz (2013)](/images/return-to-bhutz-6.jpg){: .right-small }
+![Return to Bhutz (2013)](/images/return-to-bhutz-hannah-michael-mum-at-sign.jpg){: .right-small }
 The road was difficult but our drivers once again used their expertise and we arrived at a small bridge
 crossing a river. When our coach arrived in the village the local people came to see what was going on.
 There was a little general store on the other side of the bridge and helpfully a man came over and Bela
@@ -242,7 +243,7 @@ moment that we had so little expectation of even finding the village and here we
 to a woman who had known our family and sharing the one photograph we have of our family and my
 mother and Uncle Chaskel as a young girl and boy.
 
-![Return to Bhutz (2013)](/images/return-to-bhutz-8.jpg){: .left-small }
+![Return to Bhutz (2013)](/images/return-to-bhutz-maria-looking-at-the-family-photo.jpg){: .left-small }
 Old she may have been, a bit deaf and blind, but she was sharp and had a great sense of humour.
 During the time we spent with Maria she made a comment to a neighbour that my mother picked up on
 instantly. It was not very polite but it was hilarious and to our utter surprise it was in Yiddish. My
@@ -270,7 +271,7 @@ Water, soft drinks, ice creams and sweets were purchased in abundance. It wasn�
 coach again that I discovered the enormous bag of chocolate covered toffees I had bought was not only
 made in Ukraine but were kosher and the packet was covered in hechshers to prove it!
 Who would have believed that Kosher food would still be found in a village where no Jews had lived for decades.
-![Return to Bhutz (2013)](/images/return-to-bhutz-9.jpg){: .right-small }
+![Return to Bhutz (2013)](/images/return-to-bhutz-solotnva.jpg){: .right-small }
 I found this very amusing and from then on, every time the big bag of sweets came out on the coach, they were
 known as the “kosher toffees from Bhutz” and in my opinion tasted all the better for it!
 
