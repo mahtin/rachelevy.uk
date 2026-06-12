@@ -16,7 +16,14 @@ I was among 600 Survivors and Liberators who were honoured by the Queen.
 ![Holocaust Memorial Day 2005 Meeting the Queen](/images/holocaust-memorial-day-2005-meeting-the-queen-2.jpg){: .right-small }
 January 27 is the UK's Holocaust Memorial Day and in 2005 it marked the 60th Anniversary of the Liberation of Auschwitz Concentration Camp.
 
-The Catford and Bromley Synagogue newsletter (written by Joan Goldberg) wrote:
+---
+
+This video was recorded in the USA from the former MSNBC news channel. This was originally an ITV news piece from the UK.
+It covers all the activies going on that day, both in Kraków Poland and London UK.
+
+<iframe width="640" height="438" src="https://www.youtube.com/embed/Qhq_CiHeaOA" frameborder="0" fs="0"></iframe>
+
+Back in London, the Catford and Bromley Synagogue newsletter (written by Joan Goldberg) soon afwards wrote:
 
 >	Before meeting the Queen, Rachel was informed of the protocol of the day.
 >	No spouses, no hats, no speaking until spoken to, and not to offer your hand until the Queen offers hers.
