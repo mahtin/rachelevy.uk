@@ -27,6 +27,9 @@ DEFAULT_LANG = "en"
 
 # Plugins and extensions
 MARKDOWN = {
+    'extensions': [
+        'toc'
+    ],
     "extension_configs": {
         "markdown.extensions.admonition": {},
         "markdown.extensions.codehilite": {"css_class": "highlight"},
@@ -44,7 +47,7 @@ PLUGINS = [
     'search',
     'related_posts',
     'neighbors',
-#    "extract_toc",
+    "extract_toc",
 #    "liquid_tags.img",
 #    "liquid_tags.include_code",
 #    "series",
