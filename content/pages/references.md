@@ -1,9 +1,7 @@
 Title: References
 Status: published
 
-<!--
-//"recent-posts-article"
--->
+[TOC]
 
 <style>
 ol{border-bottom:1px dotted var(--mutedTextColor);overflow:auto;font-family:var(--sansFontFamily);font-size:.963rem;}
@@ -41,7 +39,7 @@ ol > li {
 }
 </style>
 
-##### Educational Websites
+##### Educational websites
 
 1. ["Levy, Ruzena 'Rachel' (Oral History)"](https://wwwiwm.org.uk/collections/item/object/80026986)
    <small class="subtitle">Imperial War Museums 20 June 2006</small>
@@ -58,7 +56,7 @@ ol > li {
 1. ["The Jewish Refugee Resettlement Farm, Millisle, Co Down"](https://wartimeni.com/location/northern-ireland/co-down/millisle/jewish-resettlement-farm/)
    <small class="subtitle">WartimeNI</small>
 
-##### Newspapers and Press Releases
+##### Newspapers and press releases
 
 1. ["The nightmares never go away"](https://wwwnewsshopper.co.uk/news/1135935.the-nightmares-never-go-away/)
    <small class="subtitle">News Shopper 21 January 2007</small>
@@ -102,7 +100,7 @@ ol > li {
 1. ["I Still Dream In Yiddish – Rachel Levy"]()
    <small class="subtitle">My Voice</small>
 
-##### Television and Videos
+##### Television and videos
 
 1. ["Rachel Levy - Video recording"](https://vhausc.edu/testimony/38417)
    <small class="subtitle">Shoah Visual History Foundation 20 June 1997</small>
