@@ -107,10 +107,12 @@ ol > li {
 1. ["Video testimony of Rachel Levy BEM"](https://hmd.org.uk/resource/video-testimony-of-rachel-levy-bem/)
    <small class="subtitle">Holocaust Memorial Day Trust January 2023</small>
 1. ["Rachel Levy BEM: surviving Auschwitz-Birkenau"](https://youtu.be/EeStALj1SK4)
-   <small class="subtitle">Holocaust Memorial Day Trust May 2021</small>
+   <small class="subtitle">Holocaust Memorial Day Trust May 2021 on YouTube</small>
 1. ["David Baddiel defends giving airtime to Holocaust denier"](https://www.theguardian.com/stage/2020/feb/11/david-baddiel-defends-giving-airtime-to-holocaust-denier)
    <small class="subtitle">The Guardian 11 February 2020</small>
 1. ["Confronting Holocaust Denial with David Baddiel"](https://www.bbc.co.uk/programmes/m000fjqk)
    <small class="subtitle">BBC 17 February 2020</small>
 1. ["Rachel Levy – Holocaust Survivor - Confronting Holocaust Denial with David Baddiel"](https://era.org.uk/streaming-service-resource/bbc-two-confronting-holocaust-denial-with-david-baddiel-rachel-levy-holocaust-survivor/)
    <small class="subtitle">ETA 2020</small>
+1. ["Auschwitz Survivor Rachel Levy's Journey to Ireland"](https://www.tiktok.com/@jewishrefugeesajr/video/7493558768442182934)
+   <small class="subtitle">AJR 2025 on TikTok</small>
