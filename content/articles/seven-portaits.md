@@ -14,6 +14,9 @@ In 2022, I was one of seven Holocaust survivors selected to have their portraits
 The project, titled **Seven Portraits: Surviving the Holocaust**, was conceived as a living memorial to the dwindling generation of Holocaust survivors and as a tribute to their contributions to Holocaust education.
 All seven completed portraits were first exhibited at the Queen’s Gallery, Buckingham Palace from 27 January to 13 February 2022, coinciding with Holocaust Memorial Day (UK). 
 
+My portrait is hanging alongside portraits of Anita Lasker-Wallfisch, Arek Hersh MBE, Helen Aronson BEM, Lily Ebert, Manfred Goldberg MBE, and Zigi Shipper.
+They are a permanent reminder of us seven survivors that have made a difference to Holocaust education in the UK.
+
 ![Royal Collection Trust Rachel Levy Stuart Pearson Wright](/images/the-royal-colllection-trust-rachel-levy-stuart-pearson-wright.jpg){: .right-small }
 My portrait was painted by British artist [Stuart Pearson Wright](https://stuartpearsonwright.com/work).
 
