@@ -78,6 +78,8 @@ ol > li {
    <small class="subtitle">Royal Collection Trust 11 January 2022</small>
 1. ["Seven Portraits: Surviving the Holocaust"](https://www.rct.uk/collection/exhibitions/palace-of-holyroodhouse-0)
    <small class="subtitle">Royal Collection Trust 11 January 2022</small>
+1. ["In painting a survivor of the Holocaust, a feeling of overwhelming and indescribable privilege"](https://forward.com/culture/482577/stuart-pearson-wright-rachel-levy-holocaust-portrait-prince-charles/)
+   <small class="subtitle">By Benjamin Ivry February 16, 2022</small>
 1. ["Auschwitz survivor Rachel Levy shares her experiences and gives a message of peace to the world"](https://www.itv.com/watch/news/auschwitz-survivor-rachel-levy-shares-her-experiences-and-gives-a-message-of-peace-to-the-world/l165bls)
    <small class="subtitle">ITV News 27 January 2025</small>
 1. ["Survivors of the Holocaust"](https://www.bbc.co.uk/programmes/m0013xhz)
@@ -116,3 +118,5 @@ ol > li {
    <small class="subtitle">ETA 2020</small>
 1. ["Auschwitz Survivor Rachel Levy's Journey to Ireland"](https://www.tiktok.com/@jewishrefugeesajr/video/7493558768442182934)
    <small class="subtitle">AJR 2025 on TikTok</small>
+1. ["It was nearly 50 years before I opened up about Auschwitz"](https://www.bbc.co.uk/programmes/p0bkp824)
+   <small class="subtitle">BBC Radio4 Woman's Hour with Emma Barnett 27 January 2022</small>
