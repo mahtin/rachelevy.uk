@@ -47,6 +47,9 @@ I talked a lot about all of them in the early chapters of my [book](/blog/memoir
 
 This is the family tree on my mothers side:
 
+![Steinmetz Family Tree)](/images/steinmetz-family-tree.png)
+
+<!--
     Ezra Steinmetz and Henya Steinmetz - My Grandpa and Grandma
     │
     ├─── Shleima Slomovic (Steinmetz)  - My mother, killed in Auschwitz
@@ -57,6 +60,7 @@ This is the family tree on my mothers side:
     ├─── Rochel Steinmetz              - Killed in Bergen-Belsen
     ├─── Naftali Steinmetz
     └─── Gedalia Steinmetz             - Married Rivka and went to Israel
+-->
 
 ## Steinmetzon
 
