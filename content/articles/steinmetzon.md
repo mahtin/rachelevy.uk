@@ -40,7 +40,7 @@ Both Chaskel and Paula along with Gedalia and Rivka were not able to directly go
 Both couples were held in camps until the state of Israel was established in May 1948.
 Then they were free to enter Israel.
 
-# Family Tree
+## Family Tree
 
 Ezra Steinmetz and Henya Steinmetz were my grandpa and grandma in Ternovo.
 I talked a lot about all of them in the early chapters of my [book](/blog/memoir-i-still-dream-in-yiddish).
