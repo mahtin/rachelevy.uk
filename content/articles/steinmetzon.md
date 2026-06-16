@@ -40,6 +40,11 @@ Both Chaskel and Paula along with Gedalia and Rivka were not able to directly go
 Both couples were held in camps until the state of Israel was established in May 1948.
 Then they were free to enter Israel.
 
+![Steinmetz Family in Israel mid-60's)](/images/steinmetz-familty-in-israel-mid-60s.png)
+
+This picture is taken in Tel Aviv around 20 years after the end of World War II (in the mid-60s) when I was visiting my family in Israel.
+Everyone was doing very well.
+
 ## Family Tree
 
 Ezra Steinmetz and Henya Steinmetz were my grandpa and grandma in Ternovo.
