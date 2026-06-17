@@ -87,8 +87,9 @@ Everyone was doing very well.
 Even with the devastation of my family and the Steinmetz family during the war, these days the Steinmetz family has grown in Israel and now children, grandchildren, and great grandchildren florish there.
 The Steinmetzon yearly gathering is a celebration of that fact!
 
-The knitting business thrived in Tel Aviv, run by my three uncles.
-It was named GDI.
+![G.D.I Knitwear](/images/gdi-knitwear.jpg){: .right-small }
+
+While the knitting mill was abandoned in Ternova because of the war, a new knitting business called **G.D.I.** was restarted and thrived in Israel run by my three uncles.
 
 Fun fact: Steinmetz translates to *stonemason* or *a worker in stone*.
 I'm not sure any family member was a stonemason.
