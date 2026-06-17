@@ -12,6 +12,30 @@ Status: published
 
 ![Steinmetzon (2014)](/images/steinmetzon-2014.jpg)
 
+## Family Tree
+
+Ezra Steinmetz and Henya Steinmetz were my grandpa and grandma in Ternovo.
+I talked a lot about all of them in the early chapters of my [book](/blog/memoir-i-still-dream-in-yiddish).
+
+This is the family tree on my mothers side:
+
+![Steinmetz Family Tree)](/images/steinmetz-family-tree.png)
+
+<!--
+    Ezra Steinmetz and Henya Steinmetz - My Grandpa and Grandma
+    │
+    ├─── Shleima Slomovic (Steinmetz)  - My mother, killed in Auschwitz
+    ├─── Zalman Steinmetz              - Went to Israel (pre war)
+    ├─── Yechezkel (Chaskel) Steinmetz - Married Paula Steinmetz and went to Israel 
+    ├─── Rivka Steinmetz               - Married David Steinmetz and went to Israel
+    ├─── Carmela Nesher (Steinmetz)    - Married Ezra Nesher and went to Israel
+    ├─── Rochel Steinmetz              - Killed in Bergen-Belsen
+    ├─── Naftali Steinmetz
+    └─── Gedalia Steinmetz             - Married Rivka and went to Israel
+-->
+
+## Moving to Israel
+
 I have a wonderfully large loving family in Israel.
 
 It started in the mid thirties (before World War II) with my **Auntie Carmela** (my mothers elder sister), her husband Ezra, and their two children Miriam and Shoshanna going to live in Palestine.
@@ -40,32 +64,10 @@ Both Chaskel and Paula along with Gedalia and Rivka were not able to directly go
 Both couples were held in camps until the state of Israel was established in May 1948.
 Then they were free to enter Israel.
 
-![Steinmetz Family in Israel mid-60's)](/images/steinmetz-familty-in-israel-mid-60s.png)
+![Steinmetz Family in Israel mid-60's)](/images/steinmetz-family-in-israel-mid-60s.png)
 
 This picture is taken in Tel Aviv around 20 years after the end of World War II (in the mid-60s) when I was visiting my family in Israel.
 Everyone was doing very well.
-
-## Family Tree
-
-Ezra Steinmetz and Henya Steinmetz were my grandpa and grandma in Ternovo.
-I talked a lot about all of them in the early chapters of my [book](/blog/memoir-i-still-dream-in-yiddish).
-
-This is the family tree on my mothers side:
-
-![Steinmetz Family Tree)](/images/steinmetz-family-tree.png)
-
-<!--
-    Ezra Steinmetz and Henya Steinmetz - My Grandpa and Grandma
-    │
-    ├─── Shleima Slomovic (Steinmetz)  - My mother, killed in Auschwitz
-    ├─── Zalman Steinmetz              - Went to Israel (pre war)
-    ├─── Yechezkel (Chaskel) Steinmetz - Married Paula Steinmetz and went to Israel 
-    ├─── Rivka Steinmetz               - Married David Steinmetz and went to Israel
-    ├─── Carmela Nesher (Steinmetz)    - Married Ezra Nesher and went to Israel
-    ├─── Rochel Steinmetz              - Killed in Bergen-Belsen
-    ├─── Naftali Steinmetz
-    └─── Gedalia Steinmetz             - Married Rivka and went to Israel
--->
 
 ## Steinmetzon
 
