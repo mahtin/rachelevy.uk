@@ -12,10 +12,18 @@ Status: published
 
 ![Steinmetzon (2014)](/images/steinmetzon-2014.jpg)
 
+I was in Israel in 2014 for the Steinmetz family get together called Steinmetzon.
+In this picture are the four sons of my late Auntie Rivka and Uncle David Steinmetz.
+Asher and his wife Shlomit.
+Ezra and his wife Ronit.
+Igal and his wife Anat.
+Danny and his wife Daphna.
+Plus all their kids and grandkids!
+
 ## Family Tree
 
-Ezra Steinmetz and Henya Steinmetz were my grandpa and grandma in Ternovo.
-I talked a lot about all of them in the early chapters of my [book](/blog/memoir-i-still-dream-in-yiddish).
+Ezra Steinmetz and Henya Steinmetz were my grandparents on my mothers side in Ternovo.
+I talk a lot about all of my family in the early chapters of my [book](/blog/memoir-i-still-dream-in-yiddish).
 
 This is the family tree on my mothers side:
 
@@ -34,6 +42,9 @@ This is the family tree on my mothers side:
     └─── Gedalia Steinmetz             - Married Rivka and went to Israel
 -->
 
+My grandparents house in Ternovo was a horse and cart ride over the mountains from our own home in Bhutz.
+I would visit and stay for a week or more, sometimes even going to school while there.
+
 ## Moving to Israel
 
 I have a wonderfully large loving family in Israel.
@@ -50,7 +61,7 @@ He was the second family member to move to what became Israel and start to solid
 My mothers sister, **Auntie Ruchel**, also survived Auschwitz, however died next to me in Bergen-Belsen concentration camp just before liberation.
 Zeldi, a friend in the camp who, like me, also survived, emigrated to what became Israel.
 
-**Uncle Gedalia** married Rivka (we called her *Blonde Rivka*) and also went to what became Israel.
+**Uncle Gedalia** married Rivka (we called her *Blonde Rivka*) and they also went to what became Israel.
 
 Soon after the war ended, my **Uncle Yechezkel** (Chaskel) married Paula in Teplice-Šanov Czechoslovakia (now Teplice Czech Republic).
 Hence Paula became my Auntie Paula and she looked after me like a mother would.
@@ -62,7 +73,7 @@ My move to England and the start of my life there was because of my Uncle Chaske
 
 Both Chaskel and Paula along with Gedalia and Rivka were not able to directly go to Israel.
 Both couples were held in camps until the state of Israel was established in May 1948.
-Then they were free to enter Israel.
+After independence, they were all free to enter Israel.
 
 ![Steinmetz Family in Israel mid-60's)](/images/steinmetz-family-in-israel-mid-60s.png)
 
@@ -73,7 +84,7 @@ Everyone was doing very well.
 
 **Steinmetzon** is derived from the surname of my Steinmetz family in Israel and it's the name used for the family get-together every year somewhere in Israel.
 
-Even with the devistation of my family and the Steinmetz family during the war, these days the Steinmetz family has grown in Israel and now children, grandchildren, and great grandchildren florish there.
+Even with the devastation of my family and the Steinmetz family during the war, these days the Steinmetz family has grown in Israel and now children, grandchildren, and great grandchildren florish there.
 The Steinmetzon yearly gathering is a celebration of that fact!
 
 The knitting business thrived in Tel Aviv, run by my three uncles.
@@ -100,7 +111,7 @@ This is who's in that photograph:
 - Lower row: ?, Uncle Zalman, Auntie Ruchel, Cousin Helen (Klari’s sister), Cousin Klari, Rifka Steinmetz, ?
 
 The photograph was taken in the village of Ternovo which was, at the time, in the Subcarpathian Ruthenia area of Czechoslovakia.
-Nowdays it is in Zakarpattia Oblast, Ukraine.
+Nowadays it is in Zakarpattia Oblast, Ukraine.
 We visited this village as part of our [2013 journey](/blog/rachel-levy-returns-to-her-village-of-bhutz-ukraine-may-2013) however, no building seems to have survived that matched the factory.
 
 ## If you want to learn more
