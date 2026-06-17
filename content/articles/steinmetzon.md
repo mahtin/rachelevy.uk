@@ -68,7 +68,9 @@ Hence Paula became my Auntie Paula and she looked after me like a mother would.
 (In later years she became an expert cook and I treasure her recipes to this day.)
 They both moved to what became Israel.
 
-In fact, it was my Uncle Chaskel who heard of the transport of Jewish orphans to the United Kingdom via the [Central British Fund] and convinced both myself and my brother to apply.
+In fact, it was my Uncle Chaskel who heard of the transport of Jewish orphans to the United Kingdom via
+the [Central British Fund](https://www.theholocaustexplained.org/survival-and-legacy/survivors-and-dp-era/the-central-british-fund-and-the-children-rescue-scheme/)
+and convinced both myself and my brother to apply.
 My move to [Belfast](/blog/millisle/) Northern Ireland and the start of my life in England was because of my Uncle Chaskel.
 
 Both Chaskel and Paula along with Gedalia and Rivka were not able to directly travel to Israel as the British Mandatory government imposed strict quotas on Jewish immigration.
