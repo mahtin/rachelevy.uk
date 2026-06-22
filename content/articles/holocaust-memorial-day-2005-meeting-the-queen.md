@@ -2,7 +2,7 @@ Title: Holocaust Memorial Day 2005
 Subtitle: and being formally presented to the Queen
 Date: 2005-01-27
 Modified: 2005-01-27
-Tags: Queen Elizabeth II, Holocaust Memoral Day
+Tags: Queen Elizabeth II, Holocaust Memorial Day
 Category: blog
 Authors: Rachel Levy
 Summary: Holocaust Memorial Day 2005 and being formally presented to the Queen
