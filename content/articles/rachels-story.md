@@ -8,7 +8,6 @@ Authors: Shelley Levy
 Summary: Rachel's Story
 Status: published
 
-![Slomobic Family Photo (1939)](/images/slomovic-family-photo-1939.jpg){: .left-small }
 *Written by Shelley Levy October 2010 -*
 
 Rachel Levy was born Ruzena Slomovic in 1930 in a Shetel (Jewish Village)
@@ -21,6 +20,8 @@ are) called Yeshiva Buchas.
 In these religious homes the mothers were expected to make a living to
 support their husband and family. Again this is the case today, with the
 extended family (especially grandparents) supporting a religious family.
+
+![Slomovic Family Photo (1939)](/images/slomovic-family-photo-1939.jpg)
 
 Rachel's Mum Shlima owned a shop (which was the front room of their home)
 and sold merchandise that included cloths and food (basic essentials). They
