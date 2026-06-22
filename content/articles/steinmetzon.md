@@ -56,10 +56,11 @@ Immigration was easier back then.
 Soon after, my **Uncle Zalman** (my mothers elder brother) also went there.
 He was the second family member to move to what became Israel and he started to solidify the Steinmetz family presence there.
 
-**Auntie Rivka** had already married David Steinmetz. They had also moved to what became Israel.
+**Auntie Rivka** married David Steinmetz in what became Israel by sneaking into the country in 1944 via trains and on foot.
+A journey full of hardships.
 
-My mothers sister, **Auntie Ruchel**, also survived Auschwitz with me, however died next to me in Bergen-Belsen concentration camp just before liberation.
-Zeldi, a friend in the camp, who also survived Auschwitz and Bergen-Belsen emigrated to what became Israel.
+My mothers sister, **Auntie Ruchel**, also survived Auschwitz with me, however died next to me in Bergen-Belsen concentration camp just before liberation on April 15, 1945 by the British forces.
+Zeldi, a friend in the camp, who also survived Auschwitz and Bergen-Belsen, emigrated after the war to what became Israel.
 
 **Uncle Gedalia** married Rivka (we called her *Blonde Rivka*) and they also went to what became Israel.
 
@@ -91,7 +92,8 @@ The Steinmetzon yearly gathering is a celebration of that fact!
 
 ![G.D.I Knitwear](/images/gdi-knitwear.jpg){: .right-small }
 
-While the knitting mill was abandoned in Ternova because of the war; however, a new knitting business was restarted in Israel called **G.D.I. Knitwear**.
+While the knitting mill was abandoned in Ternova because of the war, a new knitting business was restarted by the family living in Bnei Brak, Israel called **G.D.I. Knitwear**.
+
 
 It thrived in Israel and was run by my three uncles.
 At it's high point, the uncles traveled all over Europe selling their knitted fashions.
