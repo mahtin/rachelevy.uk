@@ -89,6 +89,7 @@ DISPLAY_PAGES_ON_MENU = True
 RECENT_ARTICLES_COUNT = 50
 
 MODERN_GOOGLE_ANALYTICS = u'G-5EFBNCCX22'
+GOGGLE_ADSENSE = 'ca-pub-4251045196550327'
 
 DEFAULT_CATEGORY = "Miscellaneous"
 USE_FOLDER_AS_CATEGORY = False
@@ -180,6 +181,7 @@ EXTRA_PATH_METADATA = {
     'static/apple-touch-icon-144x144.png':     {'path': 'theme/images/apple-touch-icon-144x144.png'},
     'static/apple-touch-icon-152x152.png':     {'path': 'theme/images/apple-touch-icon-152x152.png'},
     'static/apple-touch-icon-180x180.png':     {'path': 'theme/images/apple-touch-icon-180x180.png'},
+    'static/ads.txt':                          {'path': 'ads.txt'},
 }
 
 CUSTOM_CSS = 'static/custom.css'
