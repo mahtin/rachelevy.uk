@@ -17,7 +17,7 @@ SITE_DESCRIPTION = (
 #}
 #
 
-SITEURL = ''
+SITEURL = 'https://rachellevy.uk'
 
 PATH = "content"
 
@@ -161,7 +161,7 @@ CATEGORY_FEED_ATOM = None
 CATEGORY_FEED_RSS = None
 
 TYPOGRIFY = True
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Static paths if needed
 STATIC_PATHS = ['images', 'static']
