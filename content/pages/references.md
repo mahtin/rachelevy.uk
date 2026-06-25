@@ -80,6 +80,8 @@ ol > li {
    <small class="subtitle">Royal Collection Trust 11 January 2022</small>
 1. ["In painting a survivor of the Holocaust, a feeling of overwhelming and indescribable privilege"](https://forward.com/culture/482577/stuart-pearson-wright-rachel-levy-holocaust-portrait-prince-charles/)
    <small class="subtitle">By Benjamin Ivry February 16, 2022</small>
+1. [Rachel Levy BEM Holocaust survivor sculpture unveiled](https://jewishcare.org/rachel-levy-bem-holocaust-survivor-sculpture-unveiled)
+   <small class="subtitle">Jewish Care 14 July 2024</small>
 1. ["Auschwitz survivor Rachel Levy shares her experiences and gives a message of peace to the world"](https://www.itv.com/watch/news/auschwitz-survivor-rachel-levy-shares-her-experiences-and-gives-a-message-of-peace-to-the-world/l165bls)
    <small class="subtitle">ITV News 27 January 2025</small>
 1. ["Survivors of the Holocaust"](https://www.bbc.co.uk/programmes/m0013xhz)
