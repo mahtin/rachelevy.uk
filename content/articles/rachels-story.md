@@ -21,7 +21,7 @@ In these religious homes the mothers were expected to make a living to
 support their husband and family. Again this is the case today, with the
 extended family (especially grandparents) supporting a religious family.
 
-![Slomovic Family Photo (1939)](/images/slomovic-family-photo-1939.jpg)
+![Slomovic Family Photo (1941)](/images/slomovic-family-photo-1941.jpg)
 
 Rachel's Mum Shlima owned a shop (which was the front room of their home)
 and sold merchandise that included cloths and food (basic essentials). They
