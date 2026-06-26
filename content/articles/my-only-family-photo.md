@@ -12,6 +12,8 @@ Status: published
 
 This photo was taken in the village (or *shtetl* in Yiddish) of Bhutz in the Carpathian Mountains in what was Czechoslovakia.
 
+This is the only picture I have of my family.
+
 From left to right, back row:
 My aunt **Rivka Steinmetz** b. 1921 Ternova d. Israel 2010.
 My brother **Ben-Zvi Slomovic** b. 1941 Bhutz d. 1944 Auschwitz.
@@ -25,5 +27,6 @@ My sister **Rivkalah Slomovic** b. 1932 Bhutz d. 1944 Auschwitz.
 My sister **Itku (Etta) Slomovic** b. 1936 Bhutz d. 1944 Auschwitz.
 My brother **Chaskiel Slomovic** b. 1928 Bhutz, came to England (with The Boys) in 1946, d. 1975 London.
 
-This is the only picture I have of my family.
-I have no picture of my father.
+Not present:
+**Shlomo Slomovic**, my father, is not in this picture.
+He's not in any pictures that I know about.
