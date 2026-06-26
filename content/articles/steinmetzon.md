@@ -49,7 +49,7 @@ I would visit and stay for a week or more with my grandparents, sometimes even g
 
 I have a wonderfully large loving family in Israel.
 
-It started in the mid thirties (before World War II) with my **Auntie Carmela** (my mothers elder sister), her husband Ezra, and their two children Miriam and Shoshanna going to live in Palestine.
+It started in the mid thirties (1933 before World War II) with my **Auntie Carmela** (my mothers elder sister), her husband Ezra, and their two children Miriam and Shoshanna going to live in Palestine.
 Palestine at that time was under the administration of the British and named *The British Mandate for Palestine*.
 Immigration was easier back then.
 
@@ -94,8 +94,7 @@ The Steinmetzon yearly gathering is a celebration of that fact!
 
 While the knitting mill was abandoned in Ternova because of the war, a new knitting business was restarted by the family living in Bnei Brak, Israel called **G.D.I. Knitwear**.
 
-
-It thrived in Israel and was run by my three uncles.
+It thrived in Israel and was run by my three uncles - Gedalia, David, and Yechezkel (in Hebrew, his name is יְחֶזְקֵאל and hence the 'I').
 At it's high point, the uncles traveled all over Europe selling their knitted fashions.
 
 <!--
