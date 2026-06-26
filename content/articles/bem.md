@@ -1,7 +1,7 @@
 Title: British Empire Medal
 Subtitle: for holocaust remembrance and education
 Date: 2019-11-15
-Modified: 2019-11-15
+Modified: 2026-06-26
 Tags: Queen Elizabeth II, award, medal
 Category: blog
 Authors: Rachel Levy

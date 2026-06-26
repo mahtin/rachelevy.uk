@@ -1,7 +1,7 @@
 Title: Seven Portraits
 Subtitle: commissioned by Charles, Prince of Wales
 Date: 2022-01-24
-Modified: 2022-01-24
+Modified: 2026-06-26
 Tags: portrait, King Charles III
 Category: blog
 Authors: Rachel Levy

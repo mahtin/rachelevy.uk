@@ -1,7 +1,7 @@
 Title: Video recording (1997)
 Subtitle: by the Shoah Visual History Foundation
 Date: 1997-11-26
-Modified: 1997-11-26
+Modified: 2026-06-26
 Tags: history, Shoah Foundation
 Category: blog
 Authors: Rachel Levy

@@ -1,7 +1,7 @@
 Title: Buckingham Palace invite
 Subtitle: for Holocaust Memorial Day 2026
 Date: 2026-01-27
-Modified: 2026-01-27
+Modified: 2026-06-26
 Tags: King Charles III, Holocaust Memorial Day
 Category: blog
 Authors: Rachel Levy

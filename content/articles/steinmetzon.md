@@ -1,7 +1,7 @@
 Title: Steinmetzon
 Subtitle: my Israeli Steinmetz family
 Date: 2014-05-10
-Modified: 2014-05-10
+Modified: 2026-06-26
 Tags: family, Czechoslovakia, Israel, Steinmetz, Roman Vishniac, Ukraine
 Category: blog
 Authors: Rachel Levy

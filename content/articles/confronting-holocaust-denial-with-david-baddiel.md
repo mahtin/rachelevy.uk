@@ -1,7 +1,7 @@
 Title: Confronting Holocaust Denial with David Baddiel
 Subtitle: on BBC2
 Date: 2020-02-17
-Modified: 2020-02-17
+Modified: 2026-06-26
 Tags: David Baddiel, Holocaust denial
 Category: blog
 Authors: Rachel Levy

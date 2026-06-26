@@ -1,7 +1,7 @@
 Title: Sculpture
 Subtitle: by Frances Segelman
 Date: 2024-07-14
-Modified: 2024-07-14
+Modified: 2026-06-26
 Tags: sculpture, bust
 Category: blog
 Authors: Rachel Levy
