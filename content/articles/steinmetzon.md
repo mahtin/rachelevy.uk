@@ -108,7 +108,7 @@ I'm not sure any family member was a stonemason.
 
 I believe this is the only photograph of the knitting mill owned by my Uncle **David Steinmetz** in Ternovo.
 It was taken in approximately 1937 by the famous photographer [Roman Vishniac](https://magnes.berkeley.edu/collections/museum/jewish-art/vishniac/) before the war.
-I wrote about this photograph, along with my mums family, in my [book](/blog/memoir-i-still-dream-in-yiddish).
+I wrote about this photograph, along with my mothers family, in my [book](/blog/memoir-i-still-dream-in-yiddish).
 
 >	My mother's family had a knitwear factory with machines, attached to the house, and they had girls working for them, doing sewing and embroidery.
 >	I was so lucky because they'd kit me out in beautiful knitwear which I took home.
