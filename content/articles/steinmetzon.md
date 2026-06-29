@@ -1,7 +1,7 @@
 Title: Steinmetzon
 Subtitle: my Israeli Steinmetz family
 Date: 2014-05-10
-Modified: 2026-06-26
+Modified: 2026-06-29
 Tags: family, Czechoslovakia, Israel, Steinmetz, Roman Vishniac, Ukraine
 Category: blog
 Authors: Rachel Levy
@@ -107,8 +107,8 @@ I'm not sure any family member was a stonemason.
 ![Roman Vishniac photograph in Ternovo)](/images/roman-vishniac-mvk_414_2008.jpg)
 
 I believe this is the only photograph of the knitting mill owned by my Uncle **David Steinmetz** in Ternovo.
-It was taken by the famous photographer [Roman Vishniac](https://magnes.berkeley.edu/collections/museum/jewish-art/vishniac/) before the war.
-I wrote about this photograph and my mums family in my [book](/blog/memoir-i-still-dream-in-yiddish).
+It was taken in approximately 1937 by the famous photographer [Roman Vishniac](https://magnes.berkeley.edu/collections/museum/jewish-art/vishniac/) before the war.
+I wrote about this photograph, along with my mums family, in my [book](/blog/memoir-i-still-dream-in-yiddish).
 
 >	My mother's family had a knitwear factory with machines, attached to the house, and they had girls working for them, doing sewing and embroidery.
 >	I was so lucky because they'd kit me out in beautiful knitwear which I took home.
