@@ -44,6 +44,14 @@ This is the family tree on my mothers side:
 
 My grandparents house in Ternovo was a horse and cart ride over the mountains from my parents home in Bhutz.
 I would visit and stay for a week or more with my grandparents, sometimes even going to school while there.
+I wrote in my book:
+
+>	My maternal grandparents, Ezra and Henya, were orthodox and my grandfather had peyos and a beard, but my aunts and uncles were more modern.
+>	They did what they were told inside the home but outside, it was a different story.
+>	Although he was religious, my grandfather Ezra was aware of what was going on and had an eye for the future.
+>	He wanted his children to go to the then British Mandate of Palestine, which later became Israel.
+>	As trouble approached, he would constantly say in Yiddish, "*Kinder loyfn avek*" which meant, "*Children, run away*."
+>	My father wasn't so forward thinking.
 
 ## Steinmetz in Israel
 
