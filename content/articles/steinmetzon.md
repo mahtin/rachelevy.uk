@@ -99,7 +99,7 @@ Even with the devastation of my family and the Steinmetz family during the war, 
 The Steinmetzon yearly gathering is a celebration of that fact!
 
 ![G.D.I Knitwear](/images/gdi-knitwear.jpg){: .right-small }
-
+## Knitting
 While the knitting mill was abandoned in Ternova because of the war, a new knitting business was restarted by the family living in Bnei Brak, Israel called **G.D.I. Knitwear**.
 
 It thrived in Israel and was run by my three uncles - Gedalia, David, and Yechezkel (in Hebrew, his name is יְחֶזְקֵאל and hence the 'I').
@@ -113,8 +113,13 @@ I'm not sure any family member was a stonemason.
 ## Roman Vishniac
 
 ![Roman Vishniac photograph in Ternovo)](/images/roman-vishniac-mvk_414_2008.jpg)
+<style>.rst{text-align:right;font-size:70%;}</style>
+<p class="rst">image from <a href=https://magnes.berkeley.edu/collections/museum/jewish-art/vishniac/ target=_>Magnes Collection of Jewish Art and Life (University of California, Berkeley)</a></p>
 
-I believe this is the only photograph of the knitting mill owned by my Uncle **David Steinmetz** in Ternovo.
+- Upper row: Sanderovitz (David Steinmetz's friend)
+- Lower row: *unknown*, Uncle Zalman, Auntie Ruchel, Cousin Helen (Klari’s sister), Cousin Klari, Rifka Steinmetz, *unknown*
+
+I believe this is the only photograph of the knitting mill owned by my Uncle **David Steinmetz**.
 It was taken in approximately 1937 by the famous photographer [Roman Vishniac](https://magnes.berkeley.edu/collections/museum/jewish-art/vishniac/) before the war.
 I wrote about this photograph, along with my mothers family, in my [book](/blog/memoir-i-still-dream-in-yiddish).
 
@@ -122,15 +127,10 @@ I wrote about this photograph, along with my mothers family, in my [book](/blog/
 >	I was so lucky because they'd kit me out in beautiful knitwear which I took home.
 >	Auntie Rivka and Auntie Ruchel worked there and so did a young lady called Paula, who was related to the family somehow.
 
-This is who's in that photograph:
-
-- Upper row: Sanderovitz (David Steinmetz's friend)
-- Lower row: *unknown*, Uncle Zalman, Auntie Ruchel, Cousin Helen (Klari’s sister), Cousin Klari, Rifka Steinmetz, *unknown*
-
 The photograph was taken in the village of Ternovo which was, at the time, in the Subcarpathian Ruthenia area of Czechoslovakia.
 Nowadays it is located in Zakarpattia Oblast, Ukraine because of border changes after World War II.
-We visited the village or Ternovo as part of our [2013 journey](/blog/rachel-levy-returns-to-her-village-of-bhutz-ukraine-may-2013) however,
-no building seems to have survived that matched the factory.
+We visited the village of Ternovo as part of our [2013 journey](/blog/rachel-levy-returns-to-her-village-of-bhutz-ukraine-may-2013) however,
+no building seemed to have survived that matched this factory.
 
 ## If you want to learn more
 
