@@ -101,7 +101,11 @@ ARCHIVES_URL = 'archives.html'
 
 SEARCH_URL = 'search.html'
 
+TEMPLATE_PAGES = {
+  # 'index.html': 'index.html'
+}
 DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives', 'search', '404']
+
 TAG_SAVE_AS = ""
 AUTHOR_SAVE_AS = ""
 CATEGORY_SAVE_AS = ""
@@ -150,8 +154,6 @@ SHARE_LINKS = [
     ('X', 'X'),
     ('facebook', 'Facebook'),
 ]
-
-# TEMPLATE_PAGES = {'index.html': 'index.html'}
 
 # Feed settings (optional, can be disabled)
 FEED_ALL_ATOM = None
