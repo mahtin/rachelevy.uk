@@ -1,8 +1,54 @@
-# Rachel Levy static website
+# Rachel Levy - Holocaust survivor
+
+A static website built using Python's Pelican and Cloudflare workers.
 
 ## Cloudflare config
 
 *TBD*
+
+## MacOS local host config/install
+
+Assuming you're on a Mac ...
+```bash
+$ brew install pelican 
+...
+$ brew install stork-search/stork-tap/stork
+...
+$ pip -r requirements.txt 
+...
+$
+```
+Or ...
+```bash
+$ pip install --user --break-system-packages -r requirements.txt
+...
+$
+```
+
+## Building locally
+
+```bash
+$ make clean
+...
+$
+
+$ make
+...
+$
+```
+
+## Local website
+
+```bash
+$ make start-server
+```
+
+Then open [http://localhost:8000/](http://localhost:8000/) to see a local copy.
+Rebuilding the website does not require you to restart the http server.
+
+## Github and actions
+
+All actions to build the main website is done after a `git push`.
 
 ## File layout
 ```
