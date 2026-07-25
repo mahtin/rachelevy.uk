@@ -56,6 +56,8 @@ ol > li {
    <small class="subtitle">History Ireland</small>
 1. ["The Jewish Refugee Resettlement Farm, Millisle, Co Down"](https://wartimeni.com/location/northern-ireland/co-down/millisle/jewish-resettlement-farm/)
    <small class="subtitle">WartimeNI</small>
+1. ["Rachel Levy Returns to her village of Bhutz (Page 8-12)"](https://45aid.org/wp-content/uploads/2015/05/JOURNAL-2015.pdf)
+   <small class="subtitle">’45 Aid Society Journal 38 2015</small>
 
 ##### Newspapers and press releases
 
