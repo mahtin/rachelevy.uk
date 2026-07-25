@@ -162,7 +162,7 @@ AUTHOR_FEED_RSS = None
 CATEGORY_FEED_ATOM = None
 CATEGORY_FEED_RSS = None
 
-TYPOGRIFY = True
+TYPOGRIFY = True		# requires typogrify pip install
 DEFAULT_PAGINATION = False
 
 # Static paths if needed
