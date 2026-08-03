@@ -67,7 +67,7 @@ He was the second family member to move to what became Israel and he started to 
 **Auntie Rivka** married David Steinmetz in what became Israel by sneaking into the country in 1944 via trains and on foot.
 A journey full of hardships.
 
-My mothers sister, **Auntie Ruchel**, also survived Auschwitz with me, however died next to me in Bergen-Belsen concentration camp just before liberation on April 15, 1945 by the British forces.
+My mother's sister, **Auntie Ruchel**, also survived Auschwitz with me, however died next to me in Bergen-Belsen concentration camp just before liberation on April 15, 1945 by the British forces.
 Zeldi, a friend in the camp, who also survived Auschwitz and Bergen-Belsen, emigrated after the war to what became Israel.
 
 **Uncle Gedalia** married Rivka (we called her *Blonde Rivka*) and they also went to what became Israel.
@@ -121,7 +121,7 @@ I'm not sure any family member was a stonemason.
 
 I believe this is the only photograph of the knitting mill owned by my Uncle **David Steinmetz**.
 It was taken in approximately 1937 by the famous photographer [Roman Vishniac](https://magnes.berkeley.edu/collections/museum/jewish-art/vishniac/) before the war.
-I wrote about this photograph, along with my mothers family, in my [book](/blog/memoir-i-still-dream-in-yiddish).
+I wrote about this photograph, along with my mother's family, in my [book](/blog/memoir-i-still-dream-in-yiddish).
 
 >	My mother's family had a knitwear factory with machines, attached to the house, and they had girls working for them, doing sewing and embroidery.
 >	I was so lucky because they'd kit me out in beautiful knitwear which I took home.

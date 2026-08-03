@@ -17,7 +17,7 @@ This includes my upbringing in the Carpathian Mountains, time in the concentrati
 reconnecting with my brother Chaskel that amazingly also survived the Holocaust, recovery in Northern Ireland,
 moving to England, getting married, family life, and all my relatives that also survived.
 
-The full video recording is available for research entities [here](https://vha.usc.edu/testimony/38417) and it fully indexed at the Shoah Visual History Foundation housed at USC in Southern California.
+The full video recording is available for research entities [here](https://vha.usc.edu/testimony/38417) and is fully indexed at the Shoah Visual History Foundation housed at USC in Southern California.
 
 This was my first full recording I did.
 

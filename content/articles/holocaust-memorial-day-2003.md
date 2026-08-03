@@ -9,7 +9,7 @@ Summary: Holocaust Memorial Day 2003 and coverage in the local press
 Status: published
 
 To mark Holocaust Memorial Day 2003, I was interviewed by Zara Bishop of the South London Press.
-This was one of my eariest inerviews by the press.
+This was one of my eariest interviews by the press.
 I had only be talking about my experiences for a handful of years.
 The article tells my story in detail.
 

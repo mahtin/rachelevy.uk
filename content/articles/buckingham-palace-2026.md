@@ -21,7 +21,7 @@ Sadly, in their old age, some have already passed away since the 2022 unveiling.
 I was honoured with lighting a memorial candle alongside the King and Queen. They were lit, in the words of the Royal Family, as "*symbolic act of remembrance and hope for the future*".
 
 In addition, I once-again commend King Charles III for his visit to Auschwitz on Holocaust Memorial Day 2025 (one year ago).
-By doing so, he became the first British head of state to do such a visit and in doing-so he saw the horror first-hand, something that we, as survivors, have explained and told numerous times within educational settings to children or adults that no nothing about the Holocaust.
+By doing so, he became the first British head of state to do such a visit and in doing-so he saw the horror first-hand, something that we, as survivors, have explained and told numerous times within educational settings to children or adults that know nothing about the Holocaust.
 His visit is recorded on the official [Royal Family](https://youtu.be/A8O43f1r5FQ) YouTube channel.
 
 Later in the day we attended the UK's Holocaust Memorial Day (HMD) 2026 which focused on the theme of *Bridging Generations*.
