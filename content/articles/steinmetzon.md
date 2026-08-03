@@ -22,10 +22,10 @@ Plus all their kids and grandkids!
 
 ## Family Tree
 
-Ezra Steinmetz and Henya Steinmetz were my grandparents on my mothers side in Ternovo.
+Ezra Steinmetz and Henya Steinmetz were my grandparents on my mother's side in Ternovo.
 I talk a lot about all of my family in the early chapters of my [book](/blog/memoir-i-still-dream-in-yiddish).
 
-This is the family tree on my mothers side:
+This is the family tree on my mother's side:
 
 ![Steinmetz Family Tree)](/images/steinmetz-family-tree.png)
 
@@ -57,11 +57,11 @@ I wrote in my book:
 
 I have a wonderfully large loving family in Israel.
 
-It started in the mid thirties (1933 before World War II) with my **Auntie Carmela** (my mothers elder sister), her husband Ezra, and their two children Miriam and Shoshanna going to live in Palestine.
+It started in the mid thirties (1933 before World War II) with my **Auntie Carmela** (my mother's elder sister), her husband Ezra, and their two children Miriam and Shoshanna going to live in Palestine.
 Palestine at that time was under the administration of the British and named *The British Mandate for Palestine*.
 Immigration was easier back then.
 
-Soon after, my **Uncle Zalman** (my mothers elder brother) also went there.
+Soon after, my **Uncle Zalman** (my mother's elder brother) also went there.
 He was the second family member to move to what became Israel and he started to solidify the Steinmetz family presence there.
 
 **Auntie Rivka** married David Steinmetz in what became Israel by sneaking into the country in 1944 via trains and on foot.

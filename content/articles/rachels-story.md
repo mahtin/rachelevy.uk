@@ -17,7 +17,7 @@ Bhutz was the religious Shetel where nearly all the Jewish men devoted their
 lives to learning Torah and Talmud, many becoming Rabbis. They were (and
 are) called Yeshiva Buchas.
 
-In these religious homes the mothers were expected to make a living to
+In these religious homes the mother's were expected to make a living to
 support their husband and family. Again this is the case today, with the
 extended family (especially grandparents) supporting a religious family.
 
